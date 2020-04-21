@@ -1,0 +1,9 @@
+name: 'Chonkbot'
+description: 'Scientifically measures the size of your pull request'
+author: 'Adzz'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'thumbs-up'
+  color: 'blue'
